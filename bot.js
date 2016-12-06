@@ -3,10 +3,10 @@ var https = require('https');
 
 var botIdProd= process.env.botIdProd;
 var groupIdProd = process.env.groupIdProd;
-var groupEnvProd = '27244443';
+var groupEnvProd = '27242090';
 var botIdTest = process.env.botIdTest;
 var groupIdTest = process.env.groupIdTest;
-var groupEnvTest = 'TEST';
+var groupEnvTest = '27242090';
 var botName = process.env.botName;
 
 //scan messages
