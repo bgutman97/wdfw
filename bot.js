@@ -3,7 +3,7 @@ var https = require('https');
 
 var botIdProd= process.env.botIdProd;
 var groupIdProd = process.env.groupIdProd;
-var groupEnvProd = 'PROD';
+var groupEnvProd = '27244443';
 var botIdTest = process.env.botIdTest;
 var groupIdTest = process.env.groupIdTest;
 var groupEnvTest = 'TEST';
