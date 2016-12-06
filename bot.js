@@ -6,7 +6,7 @@ var groupIdProd = process.env.groupIdProd;
 var groupEnvProd = '27242090';
 var botIdTest = process.env.botIdTest;
 var groupIdTest = process.env.groupIdTest;
-var groupEnvTest = '27242090';
+var groupEnvTest = 'TEST';
 var botName = process.env.botName;
 
 //scan messages
